@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Preziq Banner">
+<img src="./assets/banner.png" width="100%" alt="Preziq">
+
+<br>
+
+<img src="./assets/logo-white.svg" width="72" alt="Preziq Logo">
 
 # Preziq
 
@@ -9,109 +13,77 @@
 Transform ideas into beautiful, presentation-ready experiences with the power of AI.
 
 <p>
-  <a href="https://preziq.ai">Website</a> •
-  <a href="https://github.com/PreziqAi">GitHub</a> •
+  <a href="https://preziq.ai">Website</a>
+  •
   <a href="#">Documentation</a>
+  •
+  <a href="https://github.com/PreziqAi">GitHub</a>
 </p>
 
 </div>
 
 ---
 
-# About
+## About
 
 Preziq is building the next generation of presentation software.
 
-We combine artificial intelligence with modern design to help individuals, startups, educators, and enterprises create professional presentations in minutes instead of hours.
+Our platform combines artificial intelligence with modern design to help creators, educators, startups, and enterprises transform ideas into professional presentations in minutes.
 
-From content generation and visual design to collaboration and publishing, Preziq delivers a complete presentation workflow in one intelligent platform.
-
----
-
-# Vision
-
-To become the world's most intelligent presentation platform, empowering anyone to transform ideas into exceptional visual stories.
+By bringing together intelligent content generation, beautiful design, and an intuitive editing experience, Preziq enables anyone to create compelling presentations without the complexity of traditional presentation tools.
 
 ---
 
-# Mission
+## Vision
 
-Our mission is to simplify presentation creation through AI, enabling people to communicate their ideas faster, better, and with greater confidence.
-
----
-
-# Platform
-
-* AI Presentation Generation
-* Intelligent Design Engine
-* Interactive Slide Editor
-* AI Writing Assistant
-* AI Image Generation
-* Real-time Collaboration
-* Templates Library
-* Cloud Workspace
-* One-click Export
+To become the world's leading AI-powered presentation platform, empowering everyone to communicate ideas through exceptional visual storytelling.
 
 ---
 
-# Why Preziq
+## Mission
 
-* Create presentations in minutes
-* Professional-quality design by default
-* AI-assisted writing and editing
-* Modern collaborative workspace
-* Fast, intuitive editing experience
+Our mission is to simplify presentation creation through intelligent automation, making world-class presentations accessible to individuals, teams, and organizations everywhere.
 
 ---
 
-# Technology
+## Platform
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,mongodb,tailwind,aws,figma,git" />
-</p>
-
----
-
-# Product
-
-<p align="center">
-<img src="./assets/dashboard.png" width="95%" alt="Dashboard">
-</p>
-
-<br>
-
-<p align="center">
-<img src="./assets/editor.png" width="95%" alt="Editor">
-</p>
+- AI Presentation Generation
+- Intelligent Design Engine
+- Interactive Slide Editor
+- AI Writing Assistant
+- AI Image Generation
+- Team Collaboration
+- Cloud Workspace
+- One-Click Export
 
 ---
 
-# Principles
+## Our Principles
 
-| Innovation                                         | Simplicity                                     | Design                                                            |
-| -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------- |
-| Building intelligent tools that remove complexity. | Creating intuitive experiences anyone can use. | Delivering products that are elegant, consistent, and delightful. |
-
-| Collaboration              | Reliability                    | Performance     |
-| -------------------------- | ------------------------------ | --------------- |
-| Designed for modern teams. | Built for trust and stability. | Fast by design. |
+- Human-centered design
+- AI with purpose
+- Simplicity by default
+- Built for collaboration
+- Fast, reliable, and scalable
+- Continuous innovation
 
 ---
 
-# Connect
+## Building the Future
 
-Website: https://preziq.ai
+We're creating an AI-native presentation platform where ideas become polished presentations in seconds.
 
-Email: [hello@preziq.ai](mailto:hello@preziq.ai)
-
-GitHub: https://github.com/PreziqAi
+Whether you're pitching a startup, teaching a class, presenting research, or sharing a vision, Preziq helps you communicate with confidence.
 
 ---
 
 <div align="center">
 
-### From an idea to an unforgettable presentation.
+### From an Idea to an Unforgettable Presentation.
 
-Building the future of presentations with AI.
+**Building the future of presentations with AI.**
+
+<img src="./assets/logo-white.svg" width="48" alt="Preziq">
 
 </div>
